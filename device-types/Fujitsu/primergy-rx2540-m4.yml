@@ -1,0 +1,24 @@
+---
+manufacturer: Fujitsu
+model: PRIMERGY RX2540 M4
+part_number: ABN:K1567-V408-4531
+slug: fujitsu-primergy-rx2540-m4
+u_height: 2
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: VGA
+    type: other
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+    maximum_draw: 240
+  - name: Power 2
+    type: iec-60320-c14
+    maximum_draw: 240
+interfaces:
+  - name: Gig-E 1
+    type: 1000base-t
+  - name: Gig-E 2
+    type: 1000base-t
