@@ -1,0 +1,10 @@
+---
+manufacturer: Intel
+model: X710-DA2
+part_number: X710-DA2
+comments: '[Intel® Ethernet Converged Network Adapter X710-DA2](https://www.intel.com/content/www/us/en/products/sku/83964/intel-ethernet-converged-network-adapter-x710da2/specifications.html)'
+interfaces:
+  - name: 10ge{module}-1
+    type: 10gbase-t
+  - name: 10ge{module}-2
+    type: 10gbase-t
