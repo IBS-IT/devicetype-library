@@ -1,0 +1,13 @@
+---
+manufacturer: Fujitsu
+model: Esprimo D738
+slug: fujitsu-esprimo-d738
+u_height: 5
+is_full_depth: false
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+    maximum_draw: 240
+interfaces:
+  - name: Gig-E 1
+    type: 1000base-t
