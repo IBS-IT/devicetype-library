@@ -18,6 +18,6 @@ power-ports:
     type: iec-60320-c14
     maximum_draw: 240
 interfaces:
-  - name: IRMC
+  - name: iRMC
     type: 1000base-t
     mgmt_only: true
