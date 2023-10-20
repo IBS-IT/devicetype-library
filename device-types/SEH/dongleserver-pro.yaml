@@ -1,0 +1,31 @@
+---
+manufacturer: SEH Computertechnik GmbH
+model: dongleserverPro
+slug: seh-dongleserver-pro
+part_number: IC1B786A
+u_height: 0
+is_full_depth: false
+comments: '[SEH dongleserver Pro](https://www.seh-technology.com/products/usb-dongleservers/dongleserver-pro.html)'
+console-ports:
+  - name: USB 3.0 Port 1
+    type: usb-a
+  - name: USB 3.0 Port 2
+    type: usb-a
+  - name: USB 3.0 Port 3
+    type: usb-a
+  - name: USB 3.0 Port 4
+    type: usb-a
+  - name: USB 2.0 Port 1
+    type: usb-a
+  - name: USB 2.0 Port 2
+    type: usb-a
+  - name: USB 2.0 Port 3
+    type: usb-a
+  - name: USB 2.0 Port 4
+    type: usb-a
+power-ports:
+  - name: Power Port
+    type: dc-terminal
+interfaces:
+  - name: Gig-E 1
+    type: 1000base-t
