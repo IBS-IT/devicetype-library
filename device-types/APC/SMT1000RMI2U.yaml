@@ -1,0 +1,28 @@
+---
+manufacturer: APC
+model: SMT1000RMI2U
+slug: apc-smt1000rmi2u
+part_number: SMT1000RMI2U
+u_height: 2
+is_full_depth: false
+comments: '[APC Smart-UPS, Line Interactive, 1000VA, Rackmontage 2HE, 230V, 4 IEC C13-Stecker, SmartSlot, AVR, LCD](https://www.apc.com/de/de/product/SMT1000RMI2U/apc-smartups-line-interactive-1000va-rackmontage-2he-230v-4-iec-c13stecker-smartslot-avr-lcd/)'
+weight: 28.18
+weight_unit: kg
+console-ports:
+  - name: USB
+    type: usb-b
+  - name: Serial
+    type: rj-45
+power-ports:
+  - name: Power Port 1
+    type: iec-60320-c14
+    maximum_draw: 700
+power-outlets:
+  - name: Power Outlet 1
+    type: iec-60320-c13
+  - name: Power Outlet 2
+    type: iec-60320-c13
+  - name: Power Outlet 3
+    type: iec-60320-c13
+  - name: Power Outlet 4
+    type: iec-60320-c13

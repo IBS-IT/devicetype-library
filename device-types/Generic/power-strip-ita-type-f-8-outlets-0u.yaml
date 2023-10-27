@@ -1,7 +1,7 @@
 ---
 manufacturer: Generic
-model: Power Strip ITA F 10 outlets 0hu
-slug: generic-power-strip-ita-f-10-outlets-0hu
+model: Power Strip ITA Type F 8 outlets 0u
+slug: generic-power-strip-ita-f-8-outlets-0u
 u_height: 0
 is_full_depth: false
 weight: 10.73
@@ -28,8 +28,4 @@ power-outlets:
   - name: Power Outlet 7
     type: ita-f
   - name: Power Outlet 8
-    type: ita-f
-  - name: Power Outlet 9
-    type: ita-f
-  - name: Power Outlet 10
     type: ita-f
