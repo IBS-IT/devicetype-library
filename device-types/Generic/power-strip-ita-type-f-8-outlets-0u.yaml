@@ -4,11 +4,6 @@ model: Power Strip ITA Type F 8 outlets 0u
 slug: generic-power-strip-ita-f-8-outlets-0u
 u_height: 0
 is_full_depth: false
-weight: 10.73
-weight_unit: kg
-console-ports:
-  - name: USB
-    type: rj-45
 power-ports:
   - name: Power Port 1
     type: ita-f

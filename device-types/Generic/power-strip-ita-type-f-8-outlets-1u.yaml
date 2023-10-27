@@ -1,8 +1,8 @@
 ---
 manufacturer: Generic
-model: Power Strip ITA Type F 6 outlets 0u
-slug: generic-power-strip-ita-f-6-outlets-0u
-u_height: 0
+model: Power Strip ITA Type F 8 outlets 1u
+slug: generic-power-strip-ita-f-8-outlets-1u
+u_height: 1
 is_full_depth: false
 power-ports:
   - name: Power Port 1
@@ -19,4 +19,8 @@ power-outlets:
   - name: Power Outlet 5
     type: ita-f
   - name: Power Outlet 6
+    type: ita-f
+  - name: Power Outlet 7
+    type: ita-f
+  - name: Power Outlet 8
     type: ita-f
