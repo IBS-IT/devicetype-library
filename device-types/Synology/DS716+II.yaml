@@ -16,6 +16,7 @@ interfaces:
     type: 1000base-t
   - name: LAN 2
     type: 1000base-t
+console-ports:
   - name: USB Front
     type: usb-a
   - name: USB Back 1
