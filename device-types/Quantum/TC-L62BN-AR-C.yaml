@@ -1,0 +1,13 @@
+---
+manufacturer: Quantum
+model: Quantum LTO-6 External HH SAS Tape Drive
+slug: quantum-lto-6-external-hh-sas-tape-drive
+part_number: TC-L62BN-AR-C
+u_height: 4
+is_full_depth: false
+power-ports:
+  - name: Power
+    type: iec-60320-c14
+console-ports:
+  - name: SAS
+    type: other
