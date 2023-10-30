@@ -1,11 +1,11 @@
 ---
-manufacturer: Draytek
+manufacturer: DrayTek
 model: Vigor167
 slug: draytek-vigor-167
 u_height: 0
 is_full_depth: false
 airflow: passive
-comments: '[Draytek Vigor167 Specs](https://fw.draytek.com.tw/Vigor167/Document/Vigor167-datasheet-20221125.pdf)'
+comments: '[DrayTek Vigor167 Specs](https://fw.draytek.com.tw/Vigor167/Document/Vigor167-datasheet-20221125.pdf)'
 power-ports:
   - name: External PSU
     type: dc-terminal
