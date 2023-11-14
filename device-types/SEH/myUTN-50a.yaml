@@ -1,0 +1,19 @@
+---
+manufacturer: SEH
+model: myUTN-50a
+slug: seh-myutn-50a
+u_height: 0
+is_full_depth: false
+airflow: passive
+comments: '[SEH myUTN-50a Specs]()'
+power-ports:
+  - name: External PSU
+    type: dc-terminal
+interfaces:
+  - name: Gig-E 1
+    type: 1000base-t
+console-ports:
+  - name: USB 2.0 Port 1
+    type: usb-a
+  - name: USB 2.0 Port 2
+    type: usb-a
