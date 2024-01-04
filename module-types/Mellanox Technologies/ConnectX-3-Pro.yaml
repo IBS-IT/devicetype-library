@@ -1,0 +1,12 @@
+---
+manufacturer: Mellanox Technologies
+model: ConnectX-3 Pro
+part_number: MCX312B-XCC[S/T]
+comments: '[Mellanox Technologies ConnectX®-3 Pro](https://network.nvidia.com/sites/default/files/pdf/user_manuals/ConnectX-3_Pro_Ethernet_Single_and_Dual_SFP+_Port_Adapter_Card_User_Manual.pdf)'
+interfaces:
+  - name: '{module} 10ge Port 1'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module} 10ge Port 2'
+    type: 10gbase-t
+    mgmt_only: false
