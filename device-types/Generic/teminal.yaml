@@ -1,0 +1,12 @@
+---
+manufacturer: Generic
+model: terminal
+slug: generic-terminal
+u_height: 1
+is_full_depth: false
+power-ports:
+  - name: External PSU
+    type: dc-terminal
+interfaces:
+  - name: LAN 1
+    type: 1000base-t
