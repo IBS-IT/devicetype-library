@@ -23,3 +23,5 @@ console-ports:
   - name: Console
     type: de-9
     mgmt_only: true
+module-bays:
+  - name: Slot 1
